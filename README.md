@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Egb-daw
+
+- 🔭 I’m currently working on net sevice DNS
+- 🌱 I’m currently learning DAW: development of web applications
+- 👯 I’m looking to collaborate on sofware proyec
+- 🤔 I’m looking for help with 
+- 📫 How to reach me: ...
 <!--
 **Egb-daw/Egb-daw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
